@@ -6,4 +6,5 @@ import javax.swing.*;
 
 public interface TYPO3CMSIcons {
     Icon ROUTE_ICON = IconLoader.getIcon("/icons/dist/icon-navigate-route-definition.png");
+    Icon TYPO3_ICON = IconLoader.getIcon("/icons/dist/typo3.png");
 }
